@@ -43,14 +43,14 @@ export default function App() {
       >
         <div>
           <p className="mb-6 text-xs font-semibold tracking-[0.2em] text-[var(--accent-strong)] uppercase">
-            Product & service designer
+            Product, Service & Systems Designer
           </p>
           <h1 className="max-w-4xl text-6xl leading-[0.93] font-medium tracking-[-0.065em] text-balance sm:text-7xl lg:text-[6.4rem]">
             Connecting people, products and services.
           </h1>
           <p className="mt-8 max-w-2xl text-lg leading-8 text-[var(--muted)] sm:text-xl sm:leading-9">
-            15+ years balancing user needs, business goals and technical realities across B2B SaaS,
-            consumer products and service design — from discovery through delivery.
+            15+ years connecting user needs, business goals and technical realities across B2B SaaS,
+            consumer products and complex services, from discovery through delivery.
           </p>
           <a
             className="mt-10 inline-flex min-h-12 items-center rounded-full bg-[var(--ink)] px-7 text-sm font-semibold text-white transition hover:bg-[var(--accent-strong)]"
@@ -81,8 +81,8 @@ export default function App() {
           <div className="grid gap-8 border-b border-white/15 pb-12 lg:grid-cols-2">
             <h2 className="text-5xl font-medium tracking-[-0.05em] sm:text-6xl">Selected work</h2>
             <p className="max-w-xl text-lg leading-8 text-white/60 lg:justify-self-end">
-              Research, strategy, design systems and front-end thinking brought together to solve
-              meaningful user and business problems.
+              Bringing together research, strategy, design systems and front-end thinking to solve
+              meaningful user and business challenges.
             </p>
           </div>
 
@@ -159,13 +159,13 @@ export default function App() {
           <div>
             <div className="space-y-6 text-xl leading-9 text-[var(--muted)]">
               <p>
-                I’m driven by the challenge of making complex products and services easier to
-                understand, use and deliver. I connect user needs, business goals and technical
+                I help teams make complex products and services easier to understand, use and
+                deliver. I connect user needs, business goals and technical
                 realities to create practical experiences that move from design into implementation.
               </p>
               <p>
-                My work spans product discovery, research, interaction design, service design,
-                prototyping, front-end UI and design systems.
+                My work spans product discovery, research, service design, interaction design,
+                prototyping, front-end implementation and design systems.
               </p>
             </div>
             <div className="mt-12 grid grid-cols-3 gap-3">
@@ -239,7 +239,7 @@ export default function App() {
                 Let’s make something useful, clear and lasting.
               </h2>
               <p className="mt-7 max-w-2xl text-lg leading-8 text-white/70">
-                Whether you’re shaping a product, redesigning a service or evolving a design system,
+                Whether you’re shaping a product, transforming a service or scaling a design system,
                 I’d love to hear what you’re working on.
               </p>
             </div>

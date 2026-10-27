@@ -3,7 +3,7 @@ export const projects = [
     title: 'Design systems & token systems',
     eyebrow: 'Systems design · Enterprise',
     description:
-      'From reusable component principles to an enterprise design system spanning Figma, Storybook and front-end implementation.',
+      'From reusable component foundations to an enterprise design system spanning Figma, Storybook and front-end implementation.',
     image: 'design-systems.jpg',
     imageAlt: 'A detailed design system component and token overview',
     tags: ['Design systems', 'Design tokens', 'Storybook', 'Figma libraries'],
@@ -24,7 +24,7 @@ export const projects = [
     title: 'Rebuilding social care platforms',
     eyebrow: 'Service design · Information architecture',
     description:
-      'A multi-platform transformation programme that simplified how people find support across a complex network of charities and services.',
+      'A multi-platform transformation programme that made it easier for people to find support across a complex network of charities and services.',
     image: 'information-architecture.jpg',
     imageAlt: 'Information architecture diagrams and structured page layouts',
     tags: ['Service design', 'Information architecture', 'UX research', 'Accessibility'],
@@ -49,7 +49,7 @@ export const projects = [
     title: 'Design sprints & product discovery',
     eyebrow: 'Facilitation · Rapid validation',
     description:
-      'A structured sprint practice that helped teams move from assumptions to tested decisions in days rather than months.',
+      'A structured sprint approach that helped teams move from assumptions to validated decisions in days rather than months.',
     image: 'design-sprints.jpg',
     imageAlt: 'A collaborative design sprint workshop in progress',
     tags: ['Design sprints', 'Facilitation', 'Product discovery', 'Rapid validation'],
@@ -90,13 +90,13 @@ export const capabilities = [
     number: '01',
     title: 'Product discovery & strategy',
     description:
-      'Journey mapping, information architecture and product strategy that align organisational goals with real human needs.',
+      'Journey mapping, information architecture and product strategy that align organisational goals with user needs.',
   },
   {
     number: '02',
     title: 'User research & testing',
     description:
-      'Research, workshops, stakeholder interviews and usability testing translated into actionable recommendations.',
+      'Research, workshops, stakeholder interviews and usability testing translated into clear product decisions.',
   },
   {
     number: '03',
