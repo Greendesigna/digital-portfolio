@@ -19,7 +19,7 @@ const projects = [
     title: "Design Systems & Token Systems — From Concept to Implementation",
     description:
       "Starting with a conceptual design system created in 2022, this case study explores how reusable components, scalable patterns, and system-thinking were validated across multiple product concepts. It then follows how those principles were applied within a separate enterprise design system through Figma UI libraries, Storybook component libraries, semantic token architecture, and design-engineering collaboration.",
-    image: "/design-systems.jpg",
+    image: `${import.meta.env.BASE_URL}design-systems.jpg`,
     tags: [
       "Design Systems",
       "Design Tokens",
@@ -43,7 +43,7 @@ const projects = [
     title: "Rebuilding the Architecture of Social Care Platforms",
     description:
       "A multi-platform transformation programme focused on improving how people access support services across a complex care network. Through usability research, information architecture, and service design, I redesigned the experience across multiple charities and support organisations, simplifying navigation and making critical resources easier to find.",
-    image: "/information-architecture.jpg",
+    image: `${import.meta.env.BASE_URL}information-architecture.jpg`,
     tags: [
       "Service Design",
       "Information Architecture",
@@ -74,7 +74,7 @@ const projects = [
     title: "Design Sprints & Product Discovery",
     description:
       "A case study exploring how structured design sprints accelerated product discovery, reduced alignment bottlenecks, and helped teams move from assumptions to validated decisions in days rather than months.",
-    image: "design-sprints.jpg",
+    image: `${import.meta.env.BASE_URL}design-sprints.jpg`,
     tags: [
       "Design Sprints",
       "Facilitation",
@@ -97,7 +97,7 @@ const projects = [
     title: "Interaction Design & Prototyping — Two Mobile App Case Studies",
     description:
       "Two concept applications designed to explore how interaction design, design systems, and prototyping work together to create intuitive mobile experiences. The projects demonstrate complete user journeys, thoughtful micro-interactions, and scalable interface patterns across very different product contexts.",
-    image: "/nft-app.jpg",
+    image: `${import.meta.env.BASE_URL}nft-app.jpg`,
     tags: [
       "Mobile UX",
       "Interaction Design",

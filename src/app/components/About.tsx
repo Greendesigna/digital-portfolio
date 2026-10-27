@@ -30,7 +30,7 @@ export function About() {
               }}
             >
               <ImageWithFallback
-                src="/sara-profile.jpg"
+                src={`${import.meta.env.BASE_URL}sara-profile.jpg`}
                 alt="Designer workspace"
                 style={{
                   width: "100%",

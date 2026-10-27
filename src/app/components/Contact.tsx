@@ -87,7 +87,7 @@ export function Contact() {
         <Box sx={{ textAlign: 'center', mb: 6 }}>
           <Button
             component="a"
-            href="/Sara_Yusuf_CV_2026.pdf"
+            href={`${import.meta.env.BASE_URL}Sara_Yusuf_CV_2026.pdf`}
             download
             variant="outlined"
             size="large"
