@@ -1,0 +1,10 @@
+{
+  "description": "Showcase your UX design projects with a professional portfolio that highlights your skills and creativity, attracting potential clients and employers.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
