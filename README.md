@@ -1,7 +1,7 @@
 # Hi, I'm Sara 👋
 
-I'm a UX/UI and Product Designer passionate about designing simple, thoughtful experiences that solve real user problems.
+I'm a Product Designer with experience across UX, user research, design systems, front-end UI development, and project delivery. I enjoy turning complex user and business challenges into simple, scalable solutions.
 
-This portfolio brings together a selection of projects that showcase my approach to research, strategy, interaction design, and product thinking. Each case study explores the challenges, decisions, and outcomes behind the work, giving insight into both the process and the impact.
+This portfolio showcases a selection of projects highlighting my approach to discovery, strategy, design, and delivery, along with the decisions and outcomes that shaped each solution.
 
 Thanks for stopping by.
