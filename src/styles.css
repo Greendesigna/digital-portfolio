@@ -1,0 +1,53 @@
+@import 'tailwindcss';
+
+:root {
+  --paper: #f3f0e9;
+  --surface: #e8e4dc;
+  --ink: #171916;
+  --muted: #676a63;
+  --muted-light: #9a9c96;
+  --line: #d8d4ca;
+  --line-strong: #b9b5aa;
+  --accent: #bd6e55;
+  --accent-light: #e7ad96;
+  --accent-strong: #854633;
+  --error: #a43d35;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: Arial, Helvetica, system-ui, sans-serif;
+  margin: 0;
+}
+
+::selection {
+  background: var(--accent-light);
+  color: var(--ink);
+}
+
+.figma-custom-code-fragment {
+  display: contents;
+}
+
+.figma-bypass-link {
+  position: fixed;
+  top: 8px;
+  left: 8px;
+  z-index: 2147483647;
+  transform: translateY(-150%);
+  border-radius: 6px;
+  background: #111827;
+  color: #fff;
+  padding: 8px 12px;
+  font:
+    600 14px/1.2 system-ui,
+    sans-serif;
+  text-decoration: none;
+}
+
+.figma-bypass-link:focus {
+  transform: translateY(0);
+}
