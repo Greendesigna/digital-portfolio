@@ -1,6 +1,6 @@
 export const projects = [
   {
-    title: 'Design systems & token systems',
+    title: 'Design Systems & Token Systems',
     eyebrow: 'Systems design · Enterprise',
     description:
       'From reusable component foundations to an enterprise design system spanning Figma, Storybook and front-end implementation.',
@@ -25,7 +25,7 @@ export const projects = [
     ],
   },
   {
-    title: 'Rebuilding social care platforms',
+    title: 'Rebuilding Social Care Platforms',
     eyebrow: 'Service design · Information architecture',
     description:
       'A multi-platform transformation programme that made it easier for people to find support across a complex network of charities and services.',
@@ -50,7 +50,7 @@ export const projects = [
     ],
   },
   {
-    title: 'Design sprints & product discovery',
+    title: 'Design Sprints & Product Discovery',
     eyebrow: 'Facilitation · Rapid validation',
     description:
       'A structured sprint approach that helped teams move from assumptions to validated decisions in days rather than months.',
@@ -67,7 +67,7 @@ export const projects = [
     ],
   },
   {
-    title: 'Interaction design & prototyping',
+    title: 'Interaction Design & Prototyping',
     eyebrow: 'Mobile UX · Product concepts',
     description:
       'Two mobile concepts exploring how interaction design, scalable systems and prototyping create intuitive end-to-end journeys.',
@@ -79,7 +79,7 @@ export const projects = [
     links: [
       {
         label: 'View Live Demo for NFT Comparison App',
-        href: 'https://www.figma.com/proto/b8iYxtzDjfokTxXx5lzAqA/GDA.-Project---NFT-Comparison-Application?node-id=7615-995&viewport=355%2C132%2C0.1&t=JirRkAJLpy48soUx-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=7615%3A995&show-proto-sidebar=1&page-id=1%3A166',
+        href: 'https://greendesigna.github.io/example-design-system/',
       },
       {
         label: 'View Prototype for Healthcare Delivery App',
