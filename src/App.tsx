@@ -277,7 +277,7 @@ export default function App() {
               <a
                 className="block border-b border-white/25 py-3 text-lg font-medium transition hover:border-white"
                 download
-                href={assetUrl('sara-yusuf-cv-2026-password-protected.pdf')}
+                href={assetUrl('sara-yusuf-cv-2026.pdf')}
               >
                 Download CV ↓
               </a>
