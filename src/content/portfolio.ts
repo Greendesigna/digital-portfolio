@@ -11,8 +11,12 @@ export const projects = [
       'Contributed to a token architecture refactor that reduced overall token volume by 15.6%, reduced component-token volume by 24.6%, and achieved 100% semantic token routing.',
     links: [
       {
-        label: 'Read Case Study',
-        href: 'https://www.figma.com/proto/cA90LYTQEuYXLQsi3LIOjy/Portfolio-pages?node-id=61-3&viewport=-379%2C202%2C0.1&t=rXA5ODvQpDSqtBFt-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=61%3A3&show-proto-sidebar=1&page-id=0%3A1',
+        label: 'Read Design Systems Case Study',
+        href: 'https://www.figma.com/proto/cA90LYTQEuYXLQsi3LIOjy/Portfolio-pages?node-id=61-3&viewport=-2964%2C-457%2C0.32&t=mVVLanUBnIPhM9fv-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=61%3A3&page-id=0%3A1',
+      },
+      {
+        label: 'View Token Systems Case Study',
+        href: 'https://www.figma.com/proto/cA90LYTQEuYXLQsi3LIOjy/Portfolio-pages?node-id=75-5&viewport=-2964%2C-457%2C0.32&t=mVVLanUBnIPhM9fv-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=75%3A5&page-id=0%3A1',
       },
       {
         label: 'View Design System (Storybook)',
