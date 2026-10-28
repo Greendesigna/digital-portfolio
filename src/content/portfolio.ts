@@ -3,12 +3,12 @@ export const projects = [
     title: 'Design Systems & Token Systems',
     eyebrow: 'Systems design · Enterprise',
     description:
-      'From reusable component foundations to an enterprise design system spanning Figma, Storybook and front-end implementation.',
+      'Driving enterprise-scale design systems across Figma, Storybook and front-end implementation, from token architecture and component foundations to documentation, governance and maintenance.',
     image: 'design-systems.jpg',
     imageAlt: 'A detailed design system component and token overview',
     tags: ['Design systems', 'Design tokens', 'Storybook', 'Figma libraries'],
     impact:
-      'Contributed to a token architecture refactor that reduced overall token volume by 15.6%, reduced component-token volume by 24.6%, and achieved 100% semantic token routing.',
+      'Owned the strategy and drove the redesign and refactor of the enterprise token system, delivering a 15.6% reduction in overall token volume, a 24.6% reduction in component-token volume, and 100% semantic token routing. Created and maintained Storybook documentation, authored Figma UI libraries, and continue to evolve a cross-functional design system developed in partnership with designers and engineers.',
     links: [
       {
         label: 'Design Systems Case Study',

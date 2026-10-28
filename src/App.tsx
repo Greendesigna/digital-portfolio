@@ -179,7 +179,7 @@ export default function App() {
             <div className="mt-12 grid grid-cols-3 gap-3">
               {[
                 ['35+', 'Projects delivered'],
-                ['2', 'UI libraries managed'],
+                ['3', 'UI libraries managed'],
                 ['15+', 'Years of experience'],
               ].map(([value, label]) => (
                 <div className="rounded-2xl bg-[var(--surface)] p-5 sm:p-7" key={label}>
