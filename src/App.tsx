@@ -79,7 +79,7 @@ export default function App() {
       <section className="bg-[var(--ink)] py-24 text-white sm:py-32" id="work">
         <div className="mx-auto max-w-7xl px-5 sm:px-8 lg:px-12">
           <div className="grid gap-8 border-b border-white/15 pb-12 lg:grid-cols-2">
-            <h2 className="text-5xl font-medium tracking-[-0.05em] sm:text-6xl">Selected work</h2>
+            <h2 className="text-5xl font-medium tracking-[-0.05em] sm:text-6xl">Selected Work</h2>
             <p className="max-w-xl text-lg leading-8 text-white/60 lg:justify-self-end">
               Bringing together research, strategy, design systems and front-end thinking to solve
               meaningful user and business challenges.
@@ -153,7 +153,7 @@ export default function App() {
               About
             </p>
             <h2 className="mt-4 text-5xl font-medium tracking-[-0.05em] sm:text-6xl">
-              Making complexity feel clear.
+              Making Complexity Feel Clear.
             </h2>
           </div>
           <div>
@@ -191,7 +191,7 @@ export default function App() {
               Skills
             </p>
             <h2 className="mt-4 text-5xl font-medium tracking-[-0.05em] sm:text-6xl">
-              From framing the problem to shipping the experience.
+              From Framing the Problem to Shipping the Experience.
             </h2>
           </div>
           <div className="mt-14 grid border-t border-[var(--line)] md:grid-cols-2 lg:grid-cols-3">
@@ -236,7 +236,7 @@ export default function App() {
           <div className="mt-5 grid gap-10 lg:grid-cols-[1.2fr_0.8fr] lg:items-end">
             <div>
               <h2 className="max-w-3xl text-5xl leading-[1.02] font-medium tracking-[-0.055em] sm:text-7xl">
-                Let’s make something useful, clear and lasting.
+                Let’s Make Something Useful, Clear and Lasting.
               </h2>
               <p className="mt-7 max-w-2xl text-lg leading-8 text-white/70">
                 Whether you’re shaping a product, transforming a service or scaling a design system,

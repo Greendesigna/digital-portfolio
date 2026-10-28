@@ -19,7 +19,7 @@ export const projects = [
         href: 'https://www.figma.com/proto/cA90LYTQEuYXLQsi3LIOjy/Portfolio-pages?node-id=75-5&viewport=-2964%2C-457%2C0.32&t=mVVLanUBnIPhM9fv-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=75%3A5&page-id=0%3A1',
       },
       {
-        label: 'View Design System (Storybook)',
+        label: 'Storybook Documentation',
         href: 'https://greendesigna.github.io/example-design-system/storybook/?path=/docs/introduction--docs',
       },
     ],
