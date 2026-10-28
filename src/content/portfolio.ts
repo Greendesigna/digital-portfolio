@@ -11,11 +11,11 @@ export const projects = [
       'Contributed to a token architecture refactor that reduced overall token volume by 15.6%, reduced component-token volume by 24.6%, and achieved 100% semantic token routing.',
     links: [
       {
-        label: 'Read Design Systems Case Study',
+        label: 'Design Systems Case Study',
         href: 'https://www.figma.com/proto/cA90LYTQEuYXLQsi3LIOjy/Portfolio-pages?node-id=61-3&viewport=-2964%2C-457%2C0.32&t=mVVLanUBnIPhM9fv-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=61%3A3&page-id=0%3A1',
       },
       {
-        label: 'View Token Systems Case Study',
+        label: 'Token Systems Case Study',
         href: 'https://www.figma.com/proto/cA90LYTQEuYXLQsi3LIOjy/Portfolio-pages?node-id=75-5&viewport=-2964%2C-457%2C0.32&t=mVVLanUBnIPhM9fv-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=75%3A5&page-id=0%3A1',
       },
       {
@@ -36,15 +36,15 @@ export const projects = [
       'Delivered a 500% increase in average monthly member sign-ups while simplifying navigation across the ecosystem.',
     links: [
       {
-        label: 'Read Information Architecture Case Study',
+        label: 'Information Architecture Case Study',
         href: 'https://www.figma.com/proto/cA90LYTQEuYXLQsi3LIOjy/Portfolio-pages?node-id=9-3&viewport=-306%2C511%2C0.11&t=K4Z51guWVWhIUD65-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=9%3A3&show-proto-sidebar=1&page-id=0%3A1',
       },
       {
-        label: 'Read Website Redesign Case Study',
+        label: 'Website Redesign Case Study',
         href: 'https://www.figma.com/proto/cA90LYTQEuYXLQsi3LIOjy/Portfolio-pages?node-id=9-335&viewport=-611%2C538%2C0.15&t=grbu5YBlrb3tnI7i-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=9%3A335&show-proto-sidebar=1&page-id=0%3A1',
       },
       {
-        label: 'Read Usability Audit Case Study',
+        label: 'Usability Audit Case Study',
         href: 'https://www.figma.com/proto/cA90LYTQEuYXLQsi3LIOjy/Portfolio-pages?node-id=9-664&viewport=-611%2C538%2C0.15&t=grbu5YBlrb3tnI7i-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=9%3A664&page-id=0%3A1',
       },
     ],
@@ -61,7 +61,7 @@ export const projects = [
       'Turned lengthy discovery discussions into actionable outcomes through a repeatable, evidence-driven process.',
     links: [
       {
-        label: 'Read Design Sprint Case Study',
+        label: 'Design Sprint Case Study',
         href: 'https://www.figma.com/proto/cA90LYTQEuYXLQsi3LIOjy/Portfolio-pages?node-id=38-3636&viewport=-379%2C202%2C0.1&t=rXA5ODvQpDSqtBFt-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=38%3A3636&page-id=0%3A1',
       },
     ],

@@ -21,7 +21,7 @@ export default function App() {
               About
             </a>
             <a className="transition hover:text-[var(--ink)]" href="#skills">
-              Expertise
+              Skills
             </a>
             <a className="transition hover:text-[var(--ink)]" href="#contact">
               Contact
@@ -188,7 +188,7 @@ export default function App() {
         <div className="mx-auto max-w-7xl px-5 sm:px-8 lg:px-12">
           <div className="max-w-3xl">
             <p className="text-xs font-semibold tracking-[0.18em] text-[var(--accent-strong)] uppercase">
-              Expertise
+              Skills
             </p>
             <h2 className="mt-4 text-5xl font-medium tracking-[-0.05em] sm:text-6xl">
               From framing the problem to shipping the experience.
